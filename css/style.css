@@ -98,14 +98,14 @@ p {
   letter-spacing: 0.02em;
 }
 
-.main-address {
- 
-}
-
 .hero-section {
-  background-color: #2e2f42;
+ 
   padding-top: 188px;
   padding-bottom: 188px;
+
+  background-color: rgba(46, 47, 66, 0.70);
+  background-image: url(/images/people-office.jpg);
+  background-repeat: no-repeat;
 }
 .hero-title {
   color: #ffffff;
@@ -254,6 +254,7 @@ img {
 }
 .header {
   border-bottom: 1px solid #e7e9fc;
+  box-shadow: ;
 }
 
 .header-wrap {
